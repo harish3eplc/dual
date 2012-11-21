@@ -1,4 +1,5 @@
-<?php
+<?php 
+//test
 include_once 'example/contacts.main.php';
 
 class ExternalAuthHandler extends ContactsHandler
